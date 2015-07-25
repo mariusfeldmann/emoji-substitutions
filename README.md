@@ -20,3 +20,7 @@ chmod +x add.sh
 
 ![Animation]
 (https://github.com/mariusfeldmann/emoji-substitutions/blob/master/animation.gif)
+
+
+## Credit
+[http://apple.stackexchange.com/questions/124048/where-is-the-replace-with-list-stored](http://apple.stackexchange.com/questions/124048/where-is-the-replace-with-list-stored)

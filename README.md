@@ -9,10 +9,7 @@ Gives you faster access to your favorite Emojis. Just like you do it in Slack! ð
 ## Installation
 
 ```
-git clone git@github.com:mariusfeldmann/emoji-substitutions.git
-cd emoji-substitutions
-chmod +x add.sh
-./add.sh
+Drag n' drop the Text Substitutions.plist file into your System Preferences -> Keyboard -> Text Window
 ```
 
 ![Substitutions]

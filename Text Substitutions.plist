@@ -5222,5 +5222,29 @@
 		<key>shortcut</key>
 		<string>:zzz:</string>
 	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🙈</string>
+		<key>shortcut</key>
+		<string>:see:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🙉</string>
+		<key>shortcut</key>
+		<string>:hear:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🙊</string>
+		<key>shortcut</key>
+		<string>:speak:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🐵</string>
+		<key>shortcut</key>
+		<string>:face:</string>
+	</dict>
 </array>
 </plist>

@@ -12,11 +12,9 @@ Gives you faster access to your favorite Emojis. Just like you do it in Slack! ð
 Drag n' drop the Text Substitutions.plist file into your System Preferences -> Keyboard -> Text Window
 ```
 
-![Substitutions]
-(https://github.com/mariusfeldmann/emoji-substitutions/blob/master/substitutions.png)
+![Substitutions](https://github.com/mariusfeldmann/emoji-substitutions/blob/master/substitutions.png)
 
-![Animation]
-(https://github.com/mariusfeldmann/emoji-substitutions/blob/master/animation.gif)
+![Animation](https://github.com/mariusfeldmann/emoji-substitutions/blob/master/animation.gif)
 
 
 ## Credit
